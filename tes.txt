@@ -1,0 +1,3 @@
+-ini adalah file pertama di github
+-projek ini dibuat pada tanggal (11 nov 23)
+-projek untuk latihan sajaa
